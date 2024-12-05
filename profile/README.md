@@ -1,3 +1,3 @@
-## PriEcho 👋
+## PrivEcho 👋
 
 
